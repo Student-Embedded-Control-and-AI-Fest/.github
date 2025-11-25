@@ -4,6 +4,14 @@ Telkom University and ITENAS Bandung
 
 Funded by __IFAC ACTIVITY FUND__ (July 2025 to June 2026)
 
+Involved students:
+
+* 
+
+* 
+
+* 
+
 Contact:
 
 * Auralius Manurung (auralius.manurung@ieee.org)
