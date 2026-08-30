@@ -17,7 +17,6 @@ Involved students:
 * Yuddha Wastu Pramukha (ITENAS)
 * Alfarabi Putra Bisono (ITENAS)
 * Hickham Amwala Koswara (ITENAS)
-* Hickham Amwala Koswara (ITENAS)
 * Ari Ferdiana (ITENAS)
 * Muhammad Lingga Darmawan (ITENAS)
 * 
