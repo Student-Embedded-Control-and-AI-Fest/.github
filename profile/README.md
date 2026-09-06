@@ -23,6 +23,8 @@ Involved students:
 
 Publications:
 * [Implicit Solver for Embedded Real-Time Simulation of Nonlinear ECG Dynamics](https://ieeexplore.ieee.org/abstract/document/11642369)
+* Cute-YOLO: An Object Detector for Dual-Core ESP32-S3 (in preparation)
+* NoodleAI: Model-Defined TinyML for Browser-to-Device IMU Gesture Recognition (in preparation)
 
 
 Contact:
